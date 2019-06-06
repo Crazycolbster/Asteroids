@@ -23,7 +23,7 @@ class Konami_Code():
         """
         Checks for the spefific combination "Up Up Down Down Left Right Left Right B A Start (Enter)
         If this is entered out of order, this resets the code.
-        I might have been able to do this with a list, but I'm not super great at those, so if statements it is.
+        I might have been able to do this with a list, but I'm not super great at those, so 'if' statements it is.
         """
         
         if button == "up":
