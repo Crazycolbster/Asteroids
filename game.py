@@ -6,19 +6,19 @@ This program implements the Star Wars: Episode 10: The Game: The Movie: The Game
 """
 import arcade
 import math
-from asteroid import Asteroid
-from small_asteroid import Small_Asteroid
-from medium_asteroid import Medium_Asteroid
-from large_asteroid import Large_Asteroid
-from ship import Ship
-from flying_object import Flying_Object
-from bullet import Bullet
-from sound import Sound
-from point import Point
-from velocity import Velocity
-from konami_code import Konami_Code
-from background import background
-from globals import *
+from code.asteroid import Asteroid
+from code.small_asteroid import Small_Asteroid
+from code.medium_asteroid import Medium_Asteroid
+from code.large_asteroid import Large_Asteroid
+from code.ship import Ship
+from code.flying_object import Flying_Object
+from code.bullet import Bullet
+from code.sound import Sound
+from code.point import Point
+from code.velocity import Velocity
+from code.konami_code import Konami_Code
+from code.background import background
+from code.globals import *
 
 """
 Did you read the ReadMe? I'd reccomend you do that, as there's a lot to be added to this game.
